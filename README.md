@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="right">Hi 👋, I'm Nikolas</h1>
-<h3 align="right">Frontend Developer</h3>
+<h1 align="left">Hi 👋, I'm Nikolas</h1>
+<h3 align="left">Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
