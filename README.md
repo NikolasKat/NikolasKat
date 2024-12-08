@@ -3,7 +3,7 @@
 <h1 align="left">🛠 Language and tools</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scss,bootstrap,tailwind,react,redux,gulp,npm,yarn,vite,git,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwind,js,react,redux,gulp,npm,yarn,vite,git,figma" />
   </a>
 </p>
 <br/>
