@@ -31,3 +31,7 @@
   <img width="0" />
 </div>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaskat&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="nikolaskat" /></p>
+
+
+
