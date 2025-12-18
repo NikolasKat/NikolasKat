@@ -13,6 +13,6 @@
 
 ##  How to reach me📫 
 
-   * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/nikolai-kotovenko-3b9722365/)
+   * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/mykola-kotovenko-3b9722365/)
 
 Have a lovely day😃!
