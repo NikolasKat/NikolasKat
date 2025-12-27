@@ -9,8 +9,6 @@
 </p>
 <br/>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolaskat&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="nikolaskat" /></p>
-
 ##  How to reach me📫 
 
    * 🔗 LinkedIn : [click it😉](https://www.linkedin.com/in/mykola-kotovenko-3b9722365/)
