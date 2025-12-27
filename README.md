@@ -4,7 +4,7 @@
 <h1 align="left">🛠 Language and tools</h1>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,scss,bootstrap,js,ts,react,tailwind,redux,nodejs,nestjs,prisma,postgres,mongodb,gulp,npm,yarn,vite,webpack,git,postman" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,scss,bootstrap,js,ts,react,tailwind,redux,nodejs,nestjs,prisma,postgres,mongodb,kafka,rabbitmq,gulp,npm,yarn,vite,webpack,git,postman,docker" />
   </a>
 </p>
 <br/>
